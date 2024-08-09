@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"Arduino_Pro_Micro";1;"Arduino Pro Micro";;;
+2;"J2";"TerminalBlock_bornier-2_P5.08mm";1;"Power Alt";;;
+3;"C1";"C_Disc_D4.3mm_W1.9mm_P5.00mm";1;"0.33uF";;;
+4;"M1";"PinHeader_1x04_P2.54mm_Vertical";1;"Stepper Motor";;;
+5;"SW2";"PinHeader_1x02_P2.54mm_Vertical";1;"ON/OFF";;;
+6;"JP3,JP2";"PinHeader_1x02_P2.54mm_Vertical";2;"TMC2209";;;
+7;"SW3";"PinHeader_1x02_P2.54mm_Vertical";1;"ST/RWD";;;
+8;"R2,R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";2;"10k";;;
+9;"U3";"Pololu_Breakout-16_15.2x20.3mm";1;"A4988";;;
+10;"U2";"TO-220-3_Horizontal_TabDown";1;"L7805";;;
+11;"C3";"CP_Radial_D8.0mm_P3.80mm";1;"100uF";;;
+12;"J1";"BarrelJack_Horizontal";1;"Power (+12V)";;;
+13;"JP1";"PinHeader_1x02_P2.54mm_Vertical";1;"A4988";;;
+14;"SW1";"SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm";1;"Step Res";;;
+15;"C2";"C_Disc_D4.3mm_W1.9mm_P5.00mm";1;"0.1uF";;;

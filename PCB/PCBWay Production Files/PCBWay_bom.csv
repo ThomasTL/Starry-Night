@@ -1,0 +1,17 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,Mount_Type
+"A, B, C, D",4,M,MountingHole_3.2mm_M3_DIN965_Pad_TopBottom,,,tht
+C1,1,0.33uF,C_Disc_D4.3mm_W1.9mm_P5.00mm,,,tht
+C2,1,0.1uF,C_Disc_D4.3mm_W1.9mm_P5.00mm,,,tht
+C3,1,100uF,CP_Radial_D8.0mm_P3.80mm,,,tht
+J1,1,Power (+12V),BarrelJack_Horizontal,,,tht
+J2,1,Power Alt,TerminalBlock_bornier-2_P5.08mm,,,tht
+JP1,1,A4988,PinHeader_1x02_P2.54mm_Vertical,,,tht
+"JP2, JP3",2,TMC2209,PinHeader_1x02_P2.54mm_Vertical,,,tht
+M1,1,Stepper Motor,PinHeader_1x04_P2.54mm_Vertical,,,tht
+"R1, R2",2,10k,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,,,tht
+SW1,1,Step Res,SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm,,,tht
+SW2,1,ON/OFF,PinHeader_1x02_P2.54mm_Vertical,,,tht
+SW3,1,ST/RWD,PinHeader_1x02_P2.54mm_Vertical,,,tht
+U1,1,Arduino Pro Micro,Arduino_Pro_Micro,,,tht
+U2,1,L7805,TO-220-3_Horizontal_TabDown,,,tht
+U3,1,A4988,Pololu_Breakout-16_15.2x20.3mm,,,tht
